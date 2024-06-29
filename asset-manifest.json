@@ -1,9 +1,8 @@
 {
   "files": {
     "main.css": "/serviqore/static/css/main.aac5adea.css",
-    "main.js": "/serviqore/static/js/main.5786dbfb.js",
+    "main.js": "/serviqore/static/js/main.24c27ff3.js",
     "static/js/453.40308780.chunk.js": "/serviqore/static/js/453.40308780.chunk.js",
-    "static/media/map.png": "/serviqore/static/media/map.638a52c658d2e1f6425b.png",
     "static/media/Group-713.png": "/serviqore/static/media/Group-713.88c4b96d3b21c35e5db6.png",
     "static/media/image_1.png": "/serviqore/static/media/image_1.16fab4f572b3f304ed6a.png",
     "static/media/vigilens.png": "/serviqore/static/media/vigilens.77a5d9d20a3390682bee.png",
@@ -22,20 +21,23 @@
     "static/media/digital_marketing.png": "/serviqore/static/media/digital_marketing.8c1291b5b5a3b504b81a.png",
     "static/media/about2.png": "/serviqore/static/media/about2.bdfb4b861f0fd2219d5b.png",
     "static/media/image_2.png": "/serviqore/static/media/image_2.f2dcff6946da36622821.png",
+    "static/media/contact.png": "/serviqore/static/media/contact.f94c4466550fc9dfd27f.png",
     "static/media/image_8.png": "/serviqore/static/media/image_8.2cddd439d7aa69bfdbea.png",
     "static/media/image_6.png": "/serviqore/static/media/image_6.6a03e2f24074a1bf75af.png",
     "static/media/virtual resourcing 2.png": "/serviqore/static/media/virtual resourcing 2.36fc498e28e7f745ee27.png",
+    "static/media/email.svg": "/serviqore/static/media/email.de1fb809b77a53817dd4c6840682e5ab.svg",
+    "static/media/map.svg": "/serviqore/static/media/map.bbf84117ca5336ded706bd36771865e7.svg",
     "static/media/slick.svg": "/serviqore/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/serviqore/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/serviqore/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/serviqore/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/serviqore/index.html",
     "main.aac5adea.css.map": "/serviqore/static/css/main.aac5adea.css.map",
-    "main.5786dbfb.js.map": "/serviqore/static/js/main.5786dbfb.js.map",
+    "main.24c27ff3.js.map": "/serviqore/static/js/main.24c27ff3.js.map",
     "453.40308780.chunk.js.map": "/serviqore/static/js/453.40308780.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.aac5adea.css",
-    "static/js/main.5786dbfb.js"
+    "static/js/main.24c27ff3.js"
   ]
 }
